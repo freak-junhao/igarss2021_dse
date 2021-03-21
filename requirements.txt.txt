@@ -1,0 +1,7 @@
+torch
+torchvision
+pretrainedmodels==0.7.4
+efficientnet-pytorch
+timm==0.3.2
+pillow
+tqdm
